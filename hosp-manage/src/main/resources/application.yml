@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: hosp-manage
+  profiles:
+    active: dev
